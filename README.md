@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Welcome to my GitHub page!
+- 🌱 I am a PhD student of Economics at the University of Houston. 
+- 🔭 I previously worked as an economist at the Central Bank of Mexico.
+- 💬 Ask me about Economics of Education and Development Economics.
+- 📫 You can reach me at: ogalvezs@cougarnet.uh.edu
+- ⚡ My personal website is: https://sites.google.com/site/oscargalvezsoriano/
+- 😄 This is my Twitter: @oscargalvez89
 <!--
 **galvez-soriano/galvez-soriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
