@@ -1,5 +1,5 @@
 ### Welcome to my GitHub page!
-- 🌱 I am a PhD student of Economics at University of Houston. 
+- 🌱 I am a PhD Candidate in Economics at University of Houston. 
 - 🔭 I previously worked as an economist at the Central Bank of Mexico.
 - 💬 Ask me about Economics of Education and Development Economics.
 - 📫 You can reach me at: ogalvezs@cougarnet.uh.edu
