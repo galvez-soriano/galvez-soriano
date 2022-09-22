@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page!
 - 🌱 I am a PhD Candidate in Economics at University of Houston. 
 - 🔭 I previously worked as an economist at the Central Bank of Mexico.
-- 💬 Ask me about Economics of Education and Development Economics.
+- 💬 Ask me about Econometrics and Labor Economics.
 - 📫 You can reach me at: ogalvezs@cougarnet.uh.edu
 - ⚡ My personal website is: https://sites.google.com/site/oscargalvezsoriano/
 - 😄 This is my Twitter: @oscargalvez89
