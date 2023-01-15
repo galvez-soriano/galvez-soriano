@@ -2,7 +2,7 @@
 - 🌱 I am a PhD Candidate in Economics at University of Houston. 
 - 🔭 I previously worked as an economist at the Central Bank of Mexico.
 - 💬 Ask me about Econometrics and Labor Economics.
-- 📫 You can reach me at: ogalvezs@cougarnet.uh.edu
+- 📫 You can reach me at: ogalvezs@central.uh.edu
 - ⚡ My personal website is: https://sites.google.com/site/oscargalvezsoriano/
 - 😄 This is my Twitter: @oscargalvez89
 <!--
