@@ -4,7 +4,7 @@
 - 💬 Ask me about Econometrics and Labor Economics
 - 📫 You can reach me at: ogalvezs@central.uh.edu
 - ⚡ My personal website is: https://sites.google.com/site/oscargalvezsoriano/
-- 😄 This is my [Twitter](https://twitter.com/oscargalvez89): @oscargalvez89
+- 😄 This is my Twitter: [@oscargalvez89](https://twitter.com/oscargalvez89)
 - 👨‍🎓 This is my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dF4ZI4MAAAAJ)
 <!--
 **galvez-soriano/galvez-soriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
