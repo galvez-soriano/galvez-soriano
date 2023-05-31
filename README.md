@@ -1,8 +1,8 @@
 ### Welcome to my GitHub page!
-- 🌱 I am a PhD Candidate in Economics at University of Houston
+- 🌱 I hold a PhD in Economics from the University of Houston
 - 🔭 I previously worked as an economist at the [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html)
 - 💬 Ask me about Econometrics and Labor Economics
-- 📫 You can reach me at: ogalvezs@central.uh.edu
+- 📫 You can reach me at: galvez.soriano@gmail.com
 - ⚡ My personal website is: https://sites.google.com/site/oscargalvezsoriano/
 - 😄 This is my Twitter: [@oscargalvez89](https://twitter.com/oscargalvez89)
 - 👨‍🎓 This is my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dF4ZI4MAAAAJ)
